@@ -1,0 +1,14 @@
+[Default Applications]
+image/jpeg=sxiv.desktop
+image/png=sxiv.desktop
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+x-scheme-handler/discord-409416265891971072=discord-409416265891971072.desktop
+
+[Added Associations]
+image/jpeg=librewolf.desktop;sxiv.desktop;
+image/gif=sxiv.desktop;
+image/png=sxiv.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+image/svg+xml=org.inkscape.Inkscape.desktop;
